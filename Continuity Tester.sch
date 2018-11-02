@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Continuity Tester-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -521,28 +520,6 @@ F 1 "MountingHole" H 8650 1755 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 8550 1800 50  0001 C CNN
 F 3 "~" H 8550 1800 50  0001 C CNN
 	1    8550 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole MH3
-U 1 1 5BDC2F40
-P 8550 2000
-F 0 "MH3" H 8650 2046 50  0000 L CNN
-F 1 "MountingHole" H 8650 1955 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 8550 2000 50  0001 C CNN
-F 3 "~" H 8550 2000 50  0001 C CNN
-	1    8550 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole MH4
-U 1 1 5BDC2F7E
-P 8550 2200
-F 0 "MH4" H 8650 2246 50  0000 L CNN
-F 1 "MountingHole" H 8650 2155 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 8550 2200 50  0001 C CNN
-F 3 "~" H 8550 2200 50  0001 C CNN
-	1    8550 2200
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
